@@ -101,3 +101,4 @@ A cat has 230 bones in its body. A human has 206. A cat has no collarbone, so it
 The average litter of kittens is between 2 - 6 kittens.
 The way you treat kittens in the early stages of it's life will render it's personality traits later in life.
 Cats respond most readily to names that end in an \ee\" sound."""
+Cats' hearing stops at 65 khz (kilohertz); humans' hearing stops at 20 khz.
